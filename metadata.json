@@ -1,0 +1,6 @@
+{
+  "name": "PlayPulse",
+  "description": "Gaming video social hangout platform combining YouTube discovery, TikTok Live with real-time gifts, Discord community hubs, voice chat, and creator customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
